@@ -42,18 +42,19 @@ The software task is some codes written in the Arduino IDE to control the operat
 6. Start GCTRL processing program, press 'g' for file selection option and select your G-Code file. **NB \:** we configure GCTRL with the portname = "COM7", you may need to change it in case your arduino is using another port
 
 ## Final product
-<div class="row">
-  <div style="float:left; width:25%;padding:5px;">
-    <img src="https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_1.jpg" style="width:100%" />
-  </div>
-  <div style="float:left; width:25%;padding:5px;">
-    <img src="https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_2.jpg" style="width:100%" />
-  </div>
-  <div style="float:left; width:25%;padding:5px;">
-    <img src="https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_3.jpg" style="width:100%" />
-  </div>
-</div>
-
-
-
-<img src="https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_4.jpg" width="400" height="500" align="right" />
+<table style="width:100%">
+  <tr>
+    <td>
+      <img src="https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_1.jpg" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_1.jpg" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_3.jpg" />
+    </td>
+    <td>
+      <img src="https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_4.jpg" />
+    </td>
+  </tr>
+ </table>

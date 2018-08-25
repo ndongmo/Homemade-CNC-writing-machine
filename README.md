@@ -43,14 +43,13 @@ The software task is some codes written in the Arduino IDE to control the operat
 
 ## Final product
 <div class="row">
-  <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  <div style="float:left; width:25%;padding:5px;">
     <img src="https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_1.jpg" style="width:100%" />
   </div>
-  <div class="column">
+  <div style="float:left; width:25%;padding:5px;">
     <img src="https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_2.jpg" style="width:100%" />
   </div>
-  <div class="column">
+  <div style="float:left; width:25%;padding:5px;">
     <img src="https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_3.jpg" style="width:100%" />
   </div>
 </div>

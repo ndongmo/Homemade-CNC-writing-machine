@@ -25,7 +25,8 @@ DIY project which consists of the construction and the implementation of a CNC p
 * Install the pen holder that is used to attach the pen to the vertical plan. 
 * Install the surface on which we can mount the paper.
 * Wiring the steps motors and servo to the motor shield and then connecting the motor shield to the arduino board.
-![MandalaDesigner schema](https://github.com/koutkout/rcseproject/blob/master/MandalaDesigner_bb.png)
+
+<img src="https://github.com/koutkout/rcseproject/blob/master/designer_bb.png" />
 
 ## Software task
 The software task is some codes written in the Arduino IDE to control the operation of the microcontroller. Our code is based on [Adidax code source](https://github.com/adidax/mini_cnc_plotter_firmware)

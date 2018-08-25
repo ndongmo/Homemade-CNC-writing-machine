@@ -41,7 +41,7 @@ The software task is some codes written in the Arduino IDE to control the operat
 6. Start GCTRL processing program, press 'g' for file selection option and select your G-Code file. **NB \:** we configure GCTRL with the portname = "COM7", you may need to change it in case your arduino is using another port
 
 ## Final product
-![](https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_1.jpg)
-![](https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_2.jpg)
-![](https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_3.jpg)
-![](https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_4.jpg)
+![](https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_1.jpg=450x600)
+![](https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_2.jpg=250x250)
+![](https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_3.jpg=250x250)
+![](https://github.com/ndongmo/Homemade-CNC-writing-machine/blob/master/img_4.jpg=250x250)

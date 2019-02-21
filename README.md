@@ -1,5 +1,8 @@
 # Homemade CNC writing machine
-DIY project which consists of the construction and the implementation of a CNC plotter using old DVD writers. The final plotting machine consists of three axes. The x-axis and y-axis work together to draw a 2D image or text on the paper. While the z-axis is used to lift and lower the pen onto the paper.
+DIY project which consists of the construction and the implementation of a CNC plotter using old DVD writers. The final plotting machine consists of three axes. The x-axis and y-axis work together to draw a 2D image or text on the paper. While the z-axis is used to lift and lower the pen onto the paper. Please, have a look at the video project on my [youtube channel](https://youtu.be/gHVwvlqfWqU).
+
+[![Gameplay video on youtube](https://j.gifs.com/mOwkWA.gif)](https://youtu.be/gHVwvlqfWqU)
+
 
 ## Hardware Requirements
 1. Servo motor
